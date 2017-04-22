@@ -1,0 +1,2 @@
+# fucky
+Trash
